@@ -1,6 +1,6 @@
 # WhatsApp Chat Analyzer 🖊️
 
-A **Streamlit-based web app** for visualizing and analyzing WhatsApp chat exports. Upload your `.txt` chat file and explore rich insights like user activity, sentiment, word usage, and more.
+A **[Streamlit-based web app](https://analyse-your-whatsappchat.streamlit.app/)** for visualizing and analyzing WhatsApp chat exports. Upload your `.txt` chat file and explore rich insights like user activity, sentiment, word usage, and more.
 
 ---
 
@@ -110,10 +110,10 @@ streamlit run app.py
 
 ## 🎓 Credits
 
-Built with love by \[Your Name or GitHub Username]
+🚀 Built with passion 💚 and care by Suraj Varma 👨‍💻🌐
 
 ---
 
 ## ⚖️ License
 
-[MIT License](LICENSE)
+[MIT License](LICENSE.txt)
