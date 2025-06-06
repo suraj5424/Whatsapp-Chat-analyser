@@ -96,16 +96,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment
-
-You can deploy this app on **Streamlit Cloud**:
-
-1. Push this repository to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Connect your repo and select `app.py` as the entry point
-
----
-
 ## 📊 Tech Stack
 
 * Python
