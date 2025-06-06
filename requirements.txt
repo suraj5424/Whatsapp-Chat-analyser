@@ -1,0 +1,10 @@
+pandas
+urlextract
+vaderSentiment
+wordcloud
+Pillow
+emoji
+streamlit
+plotly
+matplotlib
+seaborn
