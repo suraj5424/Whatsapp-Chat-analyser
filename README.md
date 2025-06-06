@@ -8,7 +8,7 @@ A **Streamlit-based web app** for visualizing and analyzing WhatsApp chat export
 
 > **Add a screenshot or GIF of your app UI here**
 >
-> ![App Screenshot](path/to/whatsaap_ui.png)
+> ![App Screenshot](path/to/whatsaap_ui.jpeg)
 
 ---
 
