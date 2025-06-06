@@ -8,7 +8,7 @@ A **Streamlit-based web app** for visualizing and analyzing WhatsApp chat export
 
 > **Add a screenshot or GIF of your app UI here**
 >
-> ![App Screenshot](path/to/screenshot.png)
+> ![App Screenshot](path/to/whatsaap_ui.png)
 
 ---
 
@@ -103,21 +103,6 @@ You can deploy this app on **Streamlit Cloud**:
 1. Push this repository to GitHub
 2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
 3. Connect your repo and select `app.py` as the entry point
-
----
-
-## 📃 Example Visuals
-
-* Word cloud of most used words
-* Activity heatmap by day/hour
-* Emoji frequency table
-* Sentiment distribution pie chart
-
-> **Add screenshots of these visuals here**
->
-> ![Word Cloud](path/to/wordcloud.png)
-> ![Heatmap](path/to/heatmap.png)
-> ![Sentiment Pie Chart](path/to/sentiment.png)
 
 ---
 
